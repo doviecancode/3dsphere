@@ -18,7 +18,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/doviecancode/3dsphere
 cd your-repo
 Open index.html in your web browser.
 
